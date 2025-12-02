@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Hold You Down (Official Video)",
+  "base_artist": "Jennifer Lopez",
+  "createdAt": "2025-12-02T09:06:27.454666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hold You Down",
+      "artist": "Rhye",
+      "has_synced": true,
+      "path": "select/01_Hold_You_Down_Rhye.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hold You Down",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/02_Hold_You_Down_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hold You Down (Remix)",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/03_Hold_You_Down_(Remix)_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hold You Down (Featuring Fat J",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/04_Hold_You_Down_(Featuring_Fat_J_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hold You Down",
+      "artist": "DJ Khaled feat. Chris Brown, August Alsina & Jeremih",
+      "has_synced": true,
+      "path": "select/05_Hold_You_Down_DJ_Khaled_feat._Chris_Brown,_August_Alsina_&_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hold You Down (Feat. Chris Brown, August Alsina, Future & Jeremih) [Explicit]",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/06_Hold_You_Down_(Feat._Chris_Brown,_August_Alsina,_Future_&_Jeremih)_[Explicit]_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hold You Down",
+      "artist": "Jennifer Lopez Ft Fat Joe",
+      "has_synced": true,
+      "path": "select/07_Hold_You_Down_Jennifer_Lopez_Ft_Fat_Joe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hold You Down",
+      "artist": "DJ Khaled feat. Chris Brown, August Alsina, Future & Jeremih",
+      "has_synced": true,
+      "path": "select/08_Hold_You_Down_DJ_Khaled_feat._Chris_Brown,_August_Alsina,_Future_&_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hold You Down",
+      "artist": "DJ Khaled feat. Chris Brown, August Alsina, Future, & Jeremih",
+      "has_synced": true,
+      "path": "select/09_Hold_You_Down_DJ_Khaled_feat._Chris_Brown,_August_Alsina,_Future,_&_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hold You Down",
+      "artist": "Jennifer Lopez (Ft. Fat Joe)",
+      "has_synced": true,
+      "path": "select/10_Hold_You_Down_Jennifer_Lopez_(Ft._Fat_Joe).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hold You Down (feat. Fat Joe)",
+      "artist": "Jennifer Lopez feat. Fat Joe",
+      "has_synced": true,
+      "path": "select/11_Hold_You_Down_(feat._Fat_Joe)_Jennifer_Lopez_feat._Fat_Joe.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hold You Down (feat. Fat Joe)",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/12_Hold_You_Down_(feat._Fat_Joe)_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hold You Down (feat. Jennifer Lopez)",
+      "artist": "Fat Joe feat. Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/13_Hold_You_Down_(feat._Jennifer_Lopez)_Fat_Joe_feat._Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hold You Down (feat. Jennifer Lopez)",
+      "artist": "Fat Joe",
+      "has_synced": true,
+      "path": "select/14_Hold_You_Down_(feat._Jennifer_Lopez)_Fat_Joe.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hold You Down",
+      "artist": "DJ Khaled feat. Chris Brown, August Alsina, Future & Jeremih",
+      "has_synced": true,
+      "path": "select/15_Hold_You_Down_DJ_Khaled_feat._Chris_Brown,_August_Alsina,_Future_&_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hold You Down (Bonus Track)",
+      "artist": "Magnapop",
+      "has_synced": false,
+      "path": "select/16_Hold_You_Down_(Bonus_Track)_Magnapop.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hold You Down",
+      "artist": "Magnapop",
+      "has_synced": false,
+      "path": "select/17_Hold_You_Down_Magnapop.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hold You Down",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/18_Hold_You_Down_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "HOLD YOU DOWN",
+      "artist": "X Ambassadors",
+      "has_synced": false,
+      "path": "select/19_HOLD_YOU_DOWN_X_Ambassadors.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Hold You Down (Feat. Fat Joe)",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/20_Hold_You_Down_(Feat._Fat_Joe)_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hold You Down",
+      "artist": "Jennifer Lopez",
+      "has_synced": false,
+      "path": "select/pl_01_Hold_You_Down_Jennifer_Lopez.txt"
+    }
+  ]
+}
